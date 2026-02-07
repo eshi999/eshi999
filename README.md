@@ -65,7 +65,7 @@
   />
   <br/>
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshi999&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshi999&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445&cache_seconds=86400"
     alt="Top Languages"
   />
 </div>
