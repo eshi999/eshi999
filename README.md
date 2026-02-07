@@ -60,12 +60,12 @@
   />
   <br/>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=eshi999&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=eshi999&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=86400"
     alt="GitHub Stats"
   />
   <br/>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshi999&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshi999&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
     alt="Top Languages"
   />
 </div>
