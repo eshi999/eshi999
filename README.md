@@ -47,7 +47,7 @@
 ## 💻 OS
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat" />
-  <img alt="Linux" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=white&style=flat" />
 </p>
 
 ---
